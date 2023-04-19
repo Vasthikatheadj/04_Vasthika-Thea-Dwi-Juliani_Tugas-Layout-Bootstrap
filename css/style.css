@@ -1,0 +1,128 @@
+body
+{
+    font-family: 'Times New Roman';
+}
+.nav
+{
+    background-color: bisque;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+.nav h2
+{
+    padding-left: 2%;
+    padding-right: 7%;
+    color: #b59558;
+}
+.nav a
+{
+    padding-right: 5%;
+    text-decoration: none;
+    color: #b59558;
+}
+.nav img
+{
+    width: 2.5%; 
+    background-color: white; 
+    /* border-radius: 5px; */
+    margin-right: 1%;
+    padding: 0.5%;
+}
+#logo 
+{
+    width: 4%; 
+    background-color: white; 
+    border-radius: 100%;
+    margin-left: 11%;
+    padding: 0.5%;
+}
+.indikatorpage
+{
+    padding: 0.2% 0 0.2% 11%;
+    background-color: #e2e2e2;
+    margin-top: 0%;
+    color: #b59558;
+}
+.segitiga
+{
+    width: 2%;
+    border-top: solid 14px #e2e2e2;
+    border-left: solid 10px transparent;
+    border-right: solid 10px transparent;
+    margin-left: 9%;
+    margin-bottom: 1%;
+}
+.card
+{
+    margin-top: 30px; 
+    padding-left: 13%; 
+}
+.card img
+{
+    margin-top: 15px;
+    width: 50%;
+    margin-left: 25%;
+}
+.card h5
+{
+    margin-top: 10px;
+}
+.card p
+{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.btn
+{
+    width: 60%; 
+    margin-left: 15%; 
+}
+.footer
+{
+    width: 100%;
+    background-color: bisque;
+    margin-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+.footer h2
+{
+    padding-left: 2%;
+    padding-right: 7%;
+    color: #b59558;
+}
+.footer a
+{
+    padding-right: 5%;
+    text-decoration: none;
+    color: #b59558;
+}
+.footer img
+{
+    width: 2.5%; 
+    background-color: white; 
+    margin-right: 1%;
+    padding: 0.5%;
+}
+.footer li a
+{
+    float: right;
+    padding-right: 1%;
+}
+.copyright
+{
+    color: gray;
+    font-size: small;
+    padding: 1% 0 1% 10%;
+    background-color: #e2e2e2;
+}
+.copyright a
+{
+    padding-right: 3%;
+}
